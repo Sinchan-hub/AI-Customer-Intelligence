@@ -1,0 +1,8 @@
+Feature,SHAP Importance
+Monetary,0.17384900563549693
+Average_Spending_Per_Order,0.17062034314138752
+Spending_Category_Low Value,0.029816952227038968
+Spending_Category_Medium Value,0.023111674243869527
+Purchase_Intensity_Low,0.004453309393780482
+Frequency,0.00244531196700411
+Purchase_Intensity_Medium,0.0023198899249828055

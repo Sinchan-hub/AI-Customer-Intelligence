@@ -1,0 +1,17 @@
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+shap
+transformers
+torch
+ollama
+sqlalchemy
+psycopg2-binary
+pymysql
+openpyxl
+jupyter

@@ -1,0 +1,38 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Model and large temporary files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Local database files
+*.db
+*.sqlite3
+
+datasets/olist_geolocation_dataset.csv
